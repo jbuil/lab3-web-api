@@ -6,7 +6,7 @@ Some ideas for obtaining a :gift: if you are the first that:
 
 - ~**Flux**: Replace the current implementation with [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html).~ Implemented by [ZenithGD](https://github.com/ZenithGD/lab3-web-api/tree/work)
 - **Be non blocking my friend**: Support asynchronous requests without using [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html).
-- **Secure me basic**: Use HTTP Basic to grant access to request that modify content.
+- ~**Secure me basic**: Use HTTP Basic to grant access to request that modify content.~ Implemented by [798523](https://github.com/798523/lab3-web-api/tree/work)
 - **Secure me with token**: Use [JWT credentials](https://jwt.io/) to grant access to requests that modify content.
 - **Secure me with social**: Use OAuth to grant access to requests that modify content.
 
@@ -25,7 +25,7 @@ Some ideas for obtaining a :gift: if you are the first that:
 | [jbuil](https://github.com/jbuil/lab3-web-api/tree/work) | 797285 | [![Build Status](https://github.com/jbuil/lab3-web-api/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/jbuil/lab3-web-api/actions/workflows/CI.yml) |
 | [celiia01](https://github.com/celiia01/lab3-web-api/tree/work)   | 796685 | [![Build Status](https://github.com/celiia01/lab3-web-api/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/celiia01/lab3-web-api/actions/workflows/CI.yml)   |
 | [PilarEster](https://github.com/PilarEster/lab3-web-api/tree/work) | 800033 | [![Build Status](https://github.com/PilarEster/lab3-web-api/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/PilarEster/lab3-web-api/actions/workflows/CI.yml) |
-| [798523](https://github.com/798523/lab3-web-api/tree/work)   | 798523 | [![Build Status](https://github.com/798523/lab3-web-api/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/798523/lab3-web-api/actions/workflows/CI.yml)   | Plan to implement **Secure me basic** |
+| [798523](https://github.com/798523/lab3-web-api/tree/work)   | 798523 | [![Build Status](https://github.com/798523/lab3-web-api/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/798523/lab3-web-api/actions/workflows/CI.yml)   | :gift: **Secure me basic** |
 | [GonchiMonchi](https://github.com/GonchiMonchi/lab3-web-api/tree/work)     | 759561 | [![Build Status](https://github.com/GonchiMonchi/lab3-web-api/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/GonchiMonchi/lab3-web-api/actions/workflows/CI.yml)   |
 | [Jaime1401](https://github.com/Jaime1401/lab3-web-api/tree/work)           | 801965 | [![Build Status](https://github.com/Jaime1401/lab3-web-api/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/Jaime1401/lab3-web-api/actions/workflows/CI.yml)           |
 | [Davidzf21](https://github.com/Davidzf21/lab3-web-api/tree/work) | 780500 | [![Build Status](https://github.com/Davidzf21/lab3-web-api/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/Davidzf21/lab3-web-api/actions/workflows/CI.yml) |
